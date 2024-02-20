@@ -8,4 +8,5 @@ in the form of First Name, Last Name, account number, password, amount.
 
 2. In the project, you can log in with your details, check the balance, deposit the required amount and withdraw as well.
 3. Limits on the amount of 100,000.
+4. The code also contains explanations in Russian language
 
